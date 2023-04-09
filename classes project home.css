@@ -1,0 +1,40 @@
+body{
+    background:lightyellow;
+}
+h1{
+    background-color: burlywood;
+    font-size: 75px;
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    width: 100%;
+    max-width: 1080px;
+    
+}
+h2{
+text-align: center;
+}
+
+
+.button {
+    background-color:burlywood;
+    border:black;
+    color: black;
+    padding: 15px 32px; 
+    font-size: 25px;
+    border-radius: 10px;
+    margin: auto;
+    display:grid;
+}
+
+   a{
+
+text-decoration: none;
+color: black;
+}
+
+
+
